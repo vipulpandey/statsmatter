@@ -20,8 +20,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Vipul Pandey"
+	description = "3D Art in VR"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "STATSMATTER"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
+		slogan     = "VR/AR Solutions for Real Estate"
+		subtitle   = "[3D Virtual World](//en.wikipedia.org/wiki/Virtual_reality) Make your physical projects available for the virtual world !!"
 		buttonText = "Find out more"
 
 
@@ -97,8 +97,8 @@ googleAnalytics = ""
 	[params.contact]
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		phone = "+91 7620552402"
+		email = "vipulpandey13@gmail.com"
 
 	# Google Maps section
 	# [params.location]

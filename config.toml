@@ -1,6 +1,6 @@
 baseurl = ""
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Statsmatter 3D AR/VR"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -21,7 +21,7 @@ googleAnalytics = ""
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Vipul Pandey"
-	description = "3D Art in VR"
+	description = "3D Artist"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -41,8 +41,8 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "VR/AR Solutions for Real Estate"
-		subtitle   = "[3D Virtual World](//en.wikipedia.org/wiki/Virtual_reality) Make your physical projects available for the virtual world !!"
+		slogan     = "Virtual 3D Solutions for Real Estate"
+		subtitle   = "[3D Virtual Reality](//en.wikipedia.org/wiki/Virtual_reality) Make your physical projects available for the virtual world !!"
 		buttonText = "Find out more"
 
 

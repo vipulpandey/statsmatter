@@ -41,15 +41,15 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Virtual 3D Solutions for Real Estate"
-		subtitle   = "[3D Virtual Reality](//en.wikipedia.org/wiki/Virtual_reality) Make your physical projects available for the virtual world !!"
+		slogan     = "360, Virtual 3D and digital Solutions for Real Estate"
+		subtitle   = "[3D Virtual Reality](//en.wikipedia.org/wiki/Virtual_reality) Make your physical structures available for the virtual world and market your virtual tours !!"
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		headline    = "We take your Business to 3D digital world!"
+		description = "[Lorem](//google.com) Get virtual tours created for your projects, and market it to the buyers through intelligent marketing "
 		buttonText  = "Get started!"
 
 
@@ -59,23 +59,23 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            title = "360 vitual tours"
+            description = "We create vitual tours for your projects, using VR Technology."
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			title = "3D apps"
+			description = "Get 3D mappings done and host it on your website."
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            title = "Digital realism"
+            description = "We use lates tools and techniques to create realistic view."
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            title = "Targeted Marketing"
+            description = "Find your buyers on digital platforms and show your virtual projects !"
 
 
     # Portfolio modals
@@ -87,18 +87,18 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Get your demo tours made !!"
 
 		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			text = "Vitual Demos"
+			link = ""
 
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
 		phone = "+91 7620552402"
-		email = "vipulpandey13@gmail.com"
+		email = "statsmatterin@gmail.com"
 
 	# Google Maps section
 	# [params.location]

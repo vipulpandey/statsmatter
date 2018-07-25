@@ -46,10 +46,10 @@ googleAnalytics = ""
 		buttonText = "Find out more"
 
 
-	# About section
+	# About section [Lorem](//google.com)
 	[params.about]
 		headline    = "We take your Business to 3D digital world!"
-		description = "[Lorem](//google.com) Get virtual tours created for your projects, and market it to the buyers through intelligent marketing "
+		description = " Get virtual tours created for your projects, and market it to the buyers through intelligent marketing "
 		buttonText  = "Get started!"
 
 

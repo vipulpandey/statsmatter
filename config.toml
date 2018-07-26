@@ -90,8 +90,8 @@ googleAnalytics = ""
 		headline = "Get your demo tours made !!"
 
 		[params.aside.button]
-			text = "Vitual Demos"
-			link = ""
+			text = "View demos"
+			link = "https://www.youtube.com/channel/UCcIyf08zysh02qV_tkI0nQQ"
 
 	# Contact section
 	[params.contact]

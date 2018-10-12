@@ -42,7 +42,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "360, Virtual 3D and digital Solutions for Real Estate"
-		subtitle   = "[3D Virtual Reality](//en.wikipedia.org/wiki/Virtual_reality) Make your physical structures available for the virtual world and market your virtual tours !!"
+		subtitle   = "Using [3D Virtual Mapping Solutions](https://sketchfab.com/Vipul.Pandey) Make your physical structures available for the virtual world and market your virtual tours !!"
 		buttonText = "Find out more"
 
 
@@ -50,8 +50,8 @@ googleAnalytics = ""
 	[params.about]
 		headline    = "We take your Business to 3D digital world!"
 		description = " Get virtual tours created for your projects, and market it to the buyers through intelligent marketing "
-		buttonText  = "Get started!"
-
+		buttonText2  = "Social Media"
+		
 
 	# Service section
 	[params.services]
@@ -64,13 +64,13 @@ googleAnalytics = ""
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
-			title = "3D apps"
-			description = "Get 3D mappings done and host it on your website."
+			title = "Photogrammetry"
+			description = "Get 3D mappings done with tools of Photogrammetry "
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Digital realism"
-            description = "We use lates tools and techniques to create realistic view."
+            title = "Digital realism in GIS"
+            description = "We use lates tools and techniques to map 3d scanned models on GIS"
 
         [[params.services.list]]
             icon = "fa-heart"
@@ -95,7 +95,7 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
+		headline = "Let's Get In Touch !"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
 		phone = "+91 7620552402"
 		email = "statsmatterin@gmail.com"

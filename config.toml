@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "STATSMATTER"
+		brand = "Darpn"
 
 		[params.navigation.links]
 			about     = "About"

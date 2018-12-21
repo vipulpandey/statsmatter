@@ -41,7 +41,7 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "360, Virtual 3D and digital Solutions for Real Estate"
+		slogan     = "360, Virtual 3D and GIS Solutions"
 		subtitle   = "Using [3D Virtual Mapping Solutions](https://sketchfab.com/Vipul.Pandey) Make your physical structures available for the virtual world and market your virtual tours !!"
 		buttonText = "Find out more"
 
